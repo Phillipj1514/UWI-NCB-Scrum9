@@ -1,0 +1,19 @@
+.main-content{
+    width: 100%;
+    display: flex ;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    width: 30rem;
+    position: relative;
+}
+
+ion-card img{
+    object-position: center;
+    object-fit: cover;
+    width: 100%;
+    height: 25rem;
+} 

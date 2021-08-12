@@ -1,0 +1,7 @@
+{
+  "name": "scrum9-project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

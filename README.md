@@ -1,1 +1,0 @@
-# UWI-NCB-Scrum9
